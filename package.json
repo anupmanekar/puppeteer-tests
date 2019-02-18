@@ -1,0 +1,18 @@
+{
+  "name": "puppeteer-tests",
+  "version": "1.0.0",
+  "description": "Tests repository for puppeteer usage and demo",
+  "dependencies": {
+    "puppeteer": "^1.12.2-next.1550428217621"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupmanekar/puppeteer-tests.git"
+  },
+  "author": "Anup Manekar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anupmanekar/puppeteer-tests/issues"
+  },
+  "homepage": "https://github.com/anupmanekar/puppeteer-tests#readme"
+}
