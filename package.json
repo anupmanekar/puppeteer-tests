@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "Tests repository for puppeteer usage and demo",
   "dependencies": {
+    "chai": "^4.2.0",
     "chalk": "^2.4.2",
     "cli-table": "^0.3.1",
+    "fs": "0.0.1-security",
     "headless-chrome-crawler": "^1.8.0",
+    "pixelmatch": "^5.0.2",
+    "pngjs": "^3.4.0",
     "puppeteer": "^1.12.2-next.1550428217621"
   },
   "repository": {
